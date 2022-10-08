@@ -6,6 +6,7 @@
 2.高频小波（道波西小波 - db8）
 ### 2.函数入口
 train.py
+  [示例代码]  
 ```python
     opts = reOpts()
     ran = ModelRAN.RAN(opts)
